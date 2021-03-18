@@ -2,7 +2,7 @@
 
 Aplicacion en react sencilla que permite registro, login y cerrar sesión utilizando Auth0.
 
-![Demo aplicativo](preview.jpg)
+![Demo aplicativo](./preview.JPG)
 
 Para instalar aplicacion ejecutar:
 
